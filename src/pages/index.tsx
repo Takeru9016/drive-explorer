@@ -1,5 +1,6 @@
-import { Homepage, Sidebar } from "@/components";
 import Head from "next/head";
+import Sidebar from "./Home/Sidebar";
+import Homepage from "./Home/Homepage";
 
 export default function Home() {
   return (
